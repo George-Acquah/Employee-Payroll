@@ -8,6 +8,9 @@ class Salaried_Employee : public Employee
 {
     public:
         Salaried_Employee();
+        void getSalary();
+        void display();
+        void title();
 
     protected:
 
