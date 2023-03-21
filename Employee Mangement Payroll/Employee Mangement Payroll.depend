@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1679418555 source:d:\personal\c++\employee-payroll\employee mangement payroll\src\commissioned_employee.cpp
+	"Commissioned_Employee.h"
+	"Employee.h"
+	<iostream>
+
+1679417229 d:\personal\c++\employee-payroll\employee mangement payroll\include\commissioned_employee.h
+	<Employee.h>
+
+1679417080 d:\personal\c++\employee-payroll\employee mangement payroll\include\employee.h
+
+1679416568 source:d:\personal\c++\employee-payroll\employee mangement payroll\src\employee.cpp
+	"Employee.h"
+
+1679418563 source:d:\personal\c++\employee-payroll\employee mangement payroll\src\hourly_employee.cpp
+	"Hourly_Employee.h"
+	"Employee.h"
+	<iostream>
+
+1679417340 d:\personal\c++\employee-payroll\employee mangement payroll\include\hourly_employee.h
+	<Employee.h>
+
+1679418570 source:d:\personal\c++\employee-payroll\employee mangement payroll\src\salaried_employee.cpp
+	"Salaried_Employee.h"
+	"Employee.h"
+	<iostream>
+
+1679417481 d:\personal\c++\employee-payroll\employee mangement payroll\include\salaried_employee.h
+	<Employee.h>
+

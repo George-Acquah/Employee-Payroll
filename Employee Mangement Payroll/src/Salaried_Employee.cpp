@@ -1,4 +1,8 @@
 #include "Salaried_Employee.h"
+#include "Employee.h"
+#include <iostream>
+
+using namespace std;
 
 Salaried_Employee::Salaried_Employee()
 {

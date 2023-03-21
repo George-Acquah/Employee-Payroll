@@ -1,4 +1,8 @@
 #include "Hourly_Employee.h"
+#include "Employee.h"
+#include <iostream>
+
+using namespace std;
 
 Hourly_Employee::Hourly_Employee()
 {
